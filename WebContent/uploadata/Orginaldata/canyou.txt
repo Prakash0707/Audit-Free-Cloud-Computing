@@ -1,0 +1,13 @@
+?	USER INTERFACE DESIGN
+?	SENTIMENT ANALYSIS
+?	DATA EXPANSION
+?	DUAL SENTIMENT ANALYSIS
+?	DUAL PREDICTION
+
+
+User Interface:
+Robustness:
+Unfair Ratings:
+Buyer Modules:
+Conclusion:
+sreepradha5217@gmail.com
